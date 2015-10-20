@@ -1,0 +1,96 @@
+1280x720 @24.00 fps
+motion blur samples:    per-camera settings
+depth of field samples: per-camera settings
+
+Frame  	Frame  	Total  	Shot                   	Map                    	DoF    	MBlur  	Total
+Number 	Time   	Time   	Name                   	Name                   	Count  	Count  	Count
+      0	  0.000	      0	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+      1	 11.906	     12	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+      2	  1.031	     13	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+      3	  0.781	     14	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+      4	  0.547	     14	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+      5	  0.563	     15	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+      6	  0.516	     15	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+      7	  0.563	     16	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+      8	  0.563	     16	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+      9	  0.484	     17	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+     10	  0.609	     18	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+     11	  0.516	     18	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+     12	  0.500	     19	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+     13	  0.547	     19	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+     14	  0.500	     20	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+     15	  0.563	     20	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+     16	  0.516	     21	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+     17	  0.547	     21	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+     18	  0.531	     22	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+     19	  0.547	     22	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+     20	  0.563	     23	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+     21	  0.516	     23	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+     22	  0.516	     24	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+     23	  0.547	     24	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+     24	  0.594	     25	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+     25	  0.516	     26	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+     26	  0.547	     26	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+     27	  0.484	     27	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+     28	  0.547	     27	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+     29	  0.547	     28	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+     30	  0.484	     28	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+     31	  0.484	     29	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+     32	  0.516	     29	shot1                 	freddysnoevent.bsp    	    8	    8	    8
+     33	  0.516	     30	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     34	  0.563	     30	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     35	  0.547	     31	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     36	  0.547	     31	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     37	  0.594	     32	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     38	  0.516	     32	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     39	  0.547	     33	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     40	  0.578	     34	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     41	  0.594	     34	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     42	  0.563	     35	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     43	  0.547	     35	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     44	  0.594	     36	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     45	  0.516	     36	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     46	  0.594	     37	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     47	  0.563	     38	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     48	  0.578	     38	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     49	  0.531	     39	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     50	  0.594	     39	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     51	  0.531	     40	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     52	  0.563	     40	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     53	  0.563	     41	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     54	  0.609	     42	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     55	  0.547	     42	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     56	  0.547	     43	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     57	  0.563	     43	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     58	  0.531	     44	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     59	  0.563	     44	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     60	  0.547	     45	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     61	  0.531	     45	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     62	  0.563	     46	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     63	  0.547	     46	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     64	  0.547	     47	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     65	  0.578	     48	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     66	  0.563	     48	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     67	  0.531	     49	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     68	  0.531	     49	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     69	  0.563	     50	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     70	  0.547	     50	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     71	  0.547	     51	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     72	  0.500	     51	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     73	  0.547	     52	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     74	  0.563	     52	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     75	  0.547	     53	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     76	  0.531	     54	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     77	  0.516	     54	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     78	  0.547	     55	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     79	  0.531	     55	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     80	  0.531	     56	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     81	  0.500	     56	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     82	  0.563	     57	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     83	  0.547	     57	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     84	  0.547	     58	shot2                 	freddysnoevent.bsp    	    8	    8	    8
+     85	  0.563	     58	shot3                 	freddysnoevent.bsp    	    8	    8	    8
+     86	  0.531	     59	shot3                 	freddysnoevent.bsp    	    8	    8	    8
+     87	  0.484	     59	shot3                 	freddysnoevent.bsp    	    8	    8	    8
+
+finished rendering 88 frames
