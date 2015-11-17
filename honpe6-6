@@ -5,7 +5,7 @@ depth of field samples: per-camera settings
 Frame  	Frame  	Total  	Shot                   	Map                    	DoF    	MBlur  	Total
 Number 	Time   	Time   	Name                   	Name                   	Count  	Count  	Count
    2202	  0.000	      0	shot14                	freddysnoevent.bsp    	    8	    8	    8
-   2203	  1.657	      2	shot14                	freddysnoevent.bsp    	    8	    8	    8
+   2203	  1.658	      2	shot14                	freddysnoevent.bsp    	    8	    8	    8
    2204	  0.749	      2	shot14                	freddysnoevent.bsp    	    8	    8	    8
    2205	  0.628	      3	shot14                	freddysnoevent.bsp    	    8	    8	    8
    2206	  0.619	      4	shot14                	freddysnoevent.bsp    	    8	    8	    8
