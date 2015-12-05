@@ -1,7 +1,7 @@
 1280x720 @25.00 fps
 motion blur samples:    1
 depth of field samples: 1
-
+nope
 Frame  	Frame  	Total  	Shot                   	Map                    	DoF    	MBlur  	Total
 Number 	Time   	Time   	Name                   	Name                   	Count  	Count  	Count
     645	  0.000	      0	shot7                 	freddysnoevent.bsp    	    8	    1	    1
