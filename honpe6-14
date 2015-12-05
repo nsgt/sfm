@@ -1,0 +1,55 @@
+"C:\Program Files (x86)\Steam\steamapps\common\SourceFilmmaker\game\sfm.exe" +sv_lan 1 -useqtport -tools -dev -sw -w 1280 -h 720 +mat_hdr_level 3 +mat_queue_mode 0 -game usermod -insecure
+
+c:\users\nishiguchi hiroaki\pictures\sfm-fnaf\honpe6.dmx#0
+
+1280x720 @25.00 fps
+motion blur samples:    per-camera settings
+depth of field samples: per-camera settings
+
+Frame  	Frame  	Total  	Shot                   	Map                    	DoF    	MBlur  	Total
+Number 	Time   	Time   	Name                   	Name                   	Count  	Count  	Count
+   9215	  0.000	      0	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9216	  5.660	      6	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9217	  0.926	      7	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9218	  0.949	      8	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9219	  0.855	      8	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9220	  1.012	      9	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9221	  0.984	     10	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9222	  0.813	     11	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9223	  0.914	     12	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9224	  0.836	     13	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9225	  0.902	     14	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9226	  1.031	     15	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9227	  0.762	     16	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9228	  0.863	     17	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9229	  0.969	     17	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9230	  0.859	     18	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9231	  0.965	     19	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9232	  0.930	     20	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9233	  0.898	     21	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9234	  0.938	     22	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9235	  1.031	     23	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9236	  0.867	     24	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9237	  0.996	     25	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9238	  0.938	     26	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9239	  0.941	     27	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9240	  1.016	     28	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9241	  1.031	     29	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9242	  0.992	     30	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9243	  0.949	     31	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9244	  0.773	     32	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9245	  0.879	     32	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9246	  0.949	     33	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9247	  0.969	     34	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9248	  1.035	     35	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9249	  0.828	     36	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9250	  0.813	     37	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9251	  0.941	     38	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9252	  0.891	     39	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9253	  0.855	     40	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9254	  0.988	     41	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9255	  0.820	     42	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9256	  0.992	     43	shot48                	freddysnoevent.bsp    	    8	    8	    8
+   9257	  0.918	     43	shot48                	freddysnoevent.bsp    	    8	    8	    8
+
+finished rendering 43 frames
